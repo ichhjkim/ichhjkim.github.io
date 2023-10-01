@@ -35,7 +35,8 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-    {{ content }}
+    Java & Spring AWS 기반의 3년차 서버 백엔드 개발자로 누적 100만 회원의 스타벅스 서비스의 주문/결제/리워드 도메인을 담당해왔습니다.
+    헥사고날(Hexagonal) 아키텍처/DDD를 기반으로 레거시 시스템을 Cloud Migration 개발해왔습니다.
   </div>
 </div>
 

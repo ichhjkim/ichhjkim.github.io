@@ -25,7 +25,7 @@ default_lng: en
 # to prevent adding languages with no folder
 # single language disables language switch
 # language order is linked to array order
-language_switch_lang_list: [en, ja, pt, fr]
+language_switch_lang_list: [en]
 
 # if the opened page is not in the user's language list,
 # suggest language(s) matching with the one(s) in browser language list and user language list.
@@ -189,14 +189,14 @@ side_and_top_nav_buttons:
     icon: "fa fa-home"
   - post-list:
     icon: "fa fa-pencil-square-o"
-  - archives:
-    icon: "fa fa-archive"
-  - projects:
-    icon: "fa fa-cog"
-  - links:
-    icon: "fa fa-link"
-  - about:
-    icon: "fa fa-user-o"
+  # - archives:
+  #   icon: "fa fa-archive"
+  # - projects:
+  #   icon: "fa fa-cog"
+  # - links:
+  #   icon: "fa fa-link"
+  # - about:
+  #   icon: "fa fa-user-o"
 
 # side nav toggle feature
 # when side nav is not visible and if you click top nav toggle button, side nav slides from left to right (disables top nav buttons)
@@ -213,7 +213,7 @@ top_nav_brand_text_enable: true
 
 # set profile image
 # comment to disable the profile image
-side_nav_profile_img_path: /assets/img/posts/post_pic1.jpg
+side_nav_profile_img_path: /assets/img/posts/profile.jpg
 
 # this adds hover effect to bottom buttons
 side_nav_bottom_buttons_hover_effect: "hover-effect"
