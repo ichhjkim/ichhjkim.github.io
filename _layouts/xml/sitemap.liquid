@@ -26,7 +26,7 @@ xmlns:xhtml="http://www.w3.org/1999/xhtml"
     {%- include util/auto-content-post-title-rename.liquid title = page_title -%}
     {%- if _page.search_engine_exclude == true or _page.layout == "redirect" %}{%continue%}{% endif %}
   <url>
-    <loc>{{ _page.url | absolute_url }}</loc>
+    <loc>{{ absolute_url }}</loc>
     {%- assign site_date = nil %}
     {%- if page.add_page_lastmod_current_date %} {%- assign site_date = site.time %} {%- endif %}
     {%- assign lastmod_date = nil %}
