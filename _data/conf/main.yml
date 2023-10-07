@@ -268,7 +268,7 @@ creative_commons:
 #                Meta for SEO
 ###########################################################
 meta:
-  # if you enabled add_hreflang in sitemap.xml, make this false. (According to SEO pros, prevent using both. )
+  # if you enabled add_hreflang in sitemap.liquid, make this false. (According to SEO pros, prevent using both. )
   hreflang: true
   # add published date and modified date
   add_meta_date: false
