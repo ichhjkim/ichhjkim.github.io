@@ -11,7 +11,7 @@ url: "https://ichhjkim.github.io"
 
 # path to this site
 # if your page is located at https://your_github_user_name.github.io/blog, then set baseurl: "/blog"
-baseurl: "https://ichhjkim.github.io"
+baseurl: ""
 
 # please use TZ database name column on the list table
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -29,14 +29,14 @@ defaults:
       layout: "post"
       permalink: /posts/:path
 
-  # for multilingual posts
-  - scope:
-      # to separate language posts folders
-      path: "*/_posts"
-    values:
-      hidden: true
-      layout: "post"
-      permalink: /:path
+#  # for multilingual posts
+#  - scope:
+#      # to separate language posts folders
+#      path: "*/_posts"
+#    values:
+#      hidden: true
+#      layout: "post"
+#      permalink: /:path
   - scope:
       path: "assets/**/*.pdf"
     values:
