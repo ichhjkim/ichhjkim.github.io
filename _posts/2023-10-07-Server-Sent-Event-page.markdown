@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_en-1
-title: _spring-server-sent-event_
+title: Server Sent Event(SSE)에 대해 알아보고 구현해보기
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -13,7 +13,7 @@ tags: [spring, sse]
 # thumbnail image for post
 img: ":데이터_실시간_노출.png"
 # disable comments on this page
-comments_disable: true
+comments_disable: false
 
 # publish date
 date: 2023-10-07 16:18:04 +0900
