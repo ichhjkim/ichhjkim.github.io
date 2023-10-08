@@ -9,6 +9,7 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+samples
 
 # OS generated
 ehthumbs.db
