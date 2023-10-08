@@ -16,7 +16,7 @@ img: ":데이터_실시간_노출.png"
 comments_disable: true
 
 # publish date
-date: 2023-09-07 16:18:04 +0900
+date: 2023-10-07 16:18:04 +0900
 
 # seo
 # if not specified, date will be used.
