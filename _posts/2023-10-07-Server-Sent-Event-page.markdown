@@ -42,9 +42,7 @@ date: 2023-10-07 16:18:04 +0900
 
 <!-- outline-start -->
 
-## ✏️Server-Sent-Events(SSE) 들어가며
-
-이 레포지토리는 SSE를 `Javascript[Client]`, `Java Spring[Server Side]`를 활용하여 구현하였습니다.
+Server Sent Events(SSE)를 `Javascript`, `Java Spring`를 활용하여 구현하였습니다.
 
 ## Server-Sent-Events란?
 
@@ -202,11 +200,11 @@ RequestBody에 아래 json을 함께 담아 호출합니다.
 
 ```
 
-![실시간 뉴스속보 업데이트](../assets/img/posts/데이터_dispatch.png)
+![실시간 뉴스속보 dispatch_화면](../assets/img/posts/데이터_dispatch.png)
 
 호출하게 되면 구독하고 있는 클라이언트 화면에 실시간으로 뉴스속보 데이터가 노출되게 됩니다.
 
-![실시간_뉴스속보_고객화면](../assets/img/posts/데이터_실시간_노출.png)
+![실시간_뉴스속보_client화면](../assets/img/posts/데이터_실시간_노출.png)
 
 
 > 자세한 코드는 [https://github.com/ichhjkim/server-sent-events](https://github.com/ichhjkim/server-sent-events)

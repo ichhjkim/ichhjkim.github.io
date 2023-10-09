@@ -9,7 +9,7 @@ layout: util/compress
 <html lang="en-US">
   <meta charset="utf-8">
   <title>Redirecting&hellip;</title>
-  <link rel="canonical" href="{{ page.redirect.to }}">
+  <link rel="canonical" href="https://ichhjkim.github.io">
   <script>location="{{ page.redirect.to }}"</script>
   <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
   <meta name="robots" content="noindex">
