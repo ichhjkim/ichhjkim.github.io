@@ -41,7 +41,7 @@ date: 2023-10-07 16:18:04 +0900
 
 <!-- outline-start -->
 
-# Server-Sent-Events(SSE)
+## ✏️Server-Sent-Events(SSE) 들어가며
 
 이 레포지토리는 SSE를 `Javascript[Client]`, `Java Spring[Server Side]`를 활용하여 구현하였습니다.
 
