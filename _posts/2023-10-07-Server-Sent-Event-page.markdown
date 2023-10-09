@@ -9,7 +9,7 @@ author: ichhjkim
 # multiple category is not supported
 category: auto generated
 # multiple tag entries are possible
-tags: [spring, sse]
+tags: [spring, sse, server sent event]
 # thumbnail image for post
 img: ":데이터_실시간_노출.png"
 # disable comments on this page
