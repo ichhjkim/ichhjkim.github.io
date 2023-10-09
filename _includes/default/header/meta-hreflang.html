@@ -4,6 +4,7 @@
   Licensed under MIT
 {%-endcomment-%}
 
+<link rel="canonical" href="https://ichhjkim.github.io/" />
 {% include multi_lng/get-pages-by-lng-pair.liquid lng_pair=include.lng_pair layout=include.layout pages=include.pages %}
 {%- if lng_page_pair.size > 1 %}
   {%- for lng_page in lng_page_pair %}
@@ -11,7 +12,6 @@
     {%- include multi_lng/get-lng-code.liquid lng = get_lng country = include.open_graph joinWith = "_" %}
     {%- if get_lng == lng and include.head == nil %}
       {%- if include.hreflang %}
-        <link rel="canonical" href="{{ lng_page.url | absolute_url }}" />
       {%- endif %}
       {%- if include.open_graph and site.data.lang[get_lng].lng.code and site.data.lang[get_lng].lng.country %}
         <meta property="og:locale" content="{{ lng_code }}" >
