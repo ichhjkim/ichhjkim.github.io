@@ -3,17 +3,17 @@
 # Licensed under MIT
 
 lng:
-  name: English
+  name: Korean
   # based on ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  code: en
+  code: ko
   # specifically needed for open-graph meta og:locale. if open_graph or html_lng_with_country_code not enabled in _data/conf/main.yml, it's not necessary.
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
   country: US
-  switch_title: En
+  switch_title: KR
   offer:
     title: Language
-    msg_page: View this page in English.
+    msg_page: View this page in Korean.
     # if page translation is not available, use this.
     msg_site: To home
 
@@ -173,7 +173,7 @@ privacy-policy:
 constants:
   greetings: Hello
   welcome: Welcome
-  sample: 
+  sample:
 
 # for contact form
 contact_form:
