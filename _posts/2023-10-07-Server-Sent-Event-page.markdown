@@ -4,7 +4,7 @@ lng_pair: id_en-1
 title: Server Sent Event(SSE)에 대해 알아보고 구현해보기
 
 # post specific
-# if not specified, .name will be used from _data/owner/[language].yml
+# if not specified, .name will be used from _data/owner/en.yml
 author: ichhjkim
 # multiple category is not supported
 category: auto generated
@@ -20,15 +20,15 @@ date: 2023-10-07 16:18:04 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2021-08-11 12:35:04 +0900
-# check the meta_common_description in _data/owner/[language].yml
-#meta_description: "Server Sent Events(SSE)에 대해 알아보고 Java Spring, Javascript으로 구현해보는 게시글입니다."
+#meta_modify_date: 2023-10-09 23:16:04 +0900
+# check the meta_common_description in _data/owner/en.yml
+# meta_description: "Server Sent Events(SSE)에 대해 알아보고 Java Spring, Javascript으로 구현해보는 게시글입니다."
 
 # optional
-# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
+# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or en/_posts folders).
 # image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
 #image_viewer_on: true
-# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
+# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or en/_posts folders).
 # image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
 #image_lazy_loader_on: true
 # exclude from on site search
