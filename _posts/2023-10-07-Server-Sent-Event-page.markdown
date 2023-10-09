@@ -22,7 +22,7 @@ date: 2023-10-07 16:18:04 +0900
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-11 12:35:04 +0900
 # check the meta_common_description in _data/owner/[language].yml
-#meta_description: ""
+#meta_description: "Server Sent Events(SSE)에 대해 알아보고 Java Spring, Javascript으로 구현해보는 게시글입니다."
 
 # optional
 # please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
@@ -36,7 +36,7 @@ date: 2023-10-07 16:18:04 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+#published: true
 ---
 
 <!-- outline-start -->
