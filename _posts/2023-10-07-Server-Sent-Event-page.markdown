@@ -1,10 +1,10 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_en-1
+lng_pair: id_ko-1
 title: Server Sent Event(SSE)에 대해 알아보고 구현해보기
 
 # post specific
-# if not specified, .name will be used from _data/owner/en.yml
+# if not specified, .name will be used from _data/owner/ko.yml
 author: ichhjkim
 # multiple category is not supported
 category: auto generated
