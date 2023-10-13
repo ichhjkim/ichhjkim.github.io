@@ -16,11 +16,11 @@ img: ":circuit_breaker.png"
 comments_disable: false
 
 # publish date
-date: 2023-10-13 15:00:00 +0900
+date: 2023-10-13 13:00:00 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2023-10-09 23:16:04 +0900
+#meta_modify_date: 2023-10-13 13:00:00 +0900
 # check the meta_common_description in _data/owner/ko.yml
 # meta_description: "Circuit Breaker와 OpenFeign Fallback에 대해 알아보는 게시글입니다."
 
