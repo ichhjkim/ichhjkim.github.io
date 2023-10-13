@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [spring, spring cloud, reverse proxy, spring cloud gateway, scg, SCG]
 # thumbnail image for post
-img: ":데이터_실시간_노출.png"
+img: ":Spring-Cloud-Gateway.png"
 # disable comments on this page
 comments_disable: false
 
@@ -20,9 +20,9 @@ date: 2023-10-11 01:00:00 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2023-10-09 23:16:04 +0900
+#meta_modify_date: 2023-10-11 23:16:04 +0900
 # check the meta_common_description in _data/owner/ko.yml
-# meta_description: "Server Sent Events(SSE)에 대해 알아보고 Java Spring, Javascript으로 구현해보는 게시글입니다."
+# meta_description: "Reverse Proxy와 Spring Cloud Gateway에 대해 알아보고 Java Spring으로 구현해보는 게시글입니다."
 
 # optional
 # please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or en/_posts folders).
